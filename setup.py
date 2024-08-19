@@ -11,6 +11,7 @@ DESCRIPTION = 'A Python wrapper around Apple App Store Api'
 URL = 'https://ponytech.net/projects/app-store-connect'
 EMAIL = 'contact@ponytech.net'
 AUTHOR = 'Ponytech'
+MODIFIER = 'pakddo'
 REQUIRES_PYTHON = '>=3.6.0'
 VERSION = None
 
